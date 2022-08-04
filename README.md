@@ -75,6 +75,7 @@ Jump to section:
 |[Primate Labs](https://www.primatelabs.com/)|Performance analysis software|[Primate Labs jobs](https://www.primatelabs.com/jobs/)|
 |[Prodigy](https://www.prodigygame.com/)|Educational math game for kids|[Prodigy careers](https://www.prodigygame.com/jobs/)|
 |[Properly](https://goproperly.com)|Real estate|[Properly jobs](https://boards.greenhouse.io/properly)|
+|[ProtectYourWealth](https://www.protectyourwealth.ca/)|Insurtech|[ProtectYourWealth careers](https://www.protectyourwealth.ca/contact/)|
 |[ProteinQure](https://www.proteinqure.com/)|Biotech|[ProteinQure careers](https://www.proteinqure.com/careers.html)|
 |[Quandl](https://quandl.com)|Financial data|[Quandl careers](https://www.quandl.com/careers)|
 |[Rangle.io](https://rangle.io)|Product Development|[Rangle careers](https://rangle.io/careers)|
